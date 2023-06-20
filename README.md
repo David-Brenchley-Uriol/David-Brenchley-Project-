@@ -9,4 +9,6 @@ The repository is divided into 5 branches, each with a different project coverin
 
 3) The third branch contains a miniature data base developed in C, composed of an index and the data file and all the required functions to manage such database, serving as an introduction to the underlying software in real data bases. During such course we also learnt SQL quite extensively.
 
-4) In fourth place there is a Network module developed in Python and 
+4) In fourth place there is a Network Communication project developed in Python using the .pcap library. The code itselves supports the first 4 layers of the Osi module, being capable of establishing a real network channel with external devices through TCP, UDP, IP and Ethernet protocols.
+
+5) Finally and most importantly, there
