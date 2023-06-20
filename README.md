@@ -1,8 +1,5 @@
 # David-Brenchley-Project-
-David Brenchley’s main projects 
-
-Due to university policy, all of the projects were developed mainly in C or in Python, however, we have also adquired an
- solid understanding in C++ and in other languages like SQL or Matlab.
+David Brenchley’s main projects:
 
 The repository is divided into 5 branches, each with a different project covering a range of programming fields.
 
@@ -15,6 +12,10 @@ The repository is divided into 5 branches, each with a different project coverin
 4)  In fourth place there is a Network Communication project developed in Python using the .pcap library. The code itselves supports the first 4 layers of the Osi module, capable of establishing a real network channel with external devices through TCP, UDP, IP and Ethernet protocols.
 
 5)  The final branch contains a miniature data base developed in C, composed of an index file, a data file, and all the required functions to manage such database, serving as an introduction to the underlying software in real data bases. During such course we also learnt SQL quite extensively.
+
+
+Due to university policy, all of the projects were developed mainly in C or in Python, however, we have also adquired an
+solid understanding in C++ and in other languages like SQL or Matlab.
 
 
 David Brenchley Uriol
