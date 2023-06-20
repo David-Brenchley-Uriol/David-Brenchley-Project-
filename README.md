@@ -7,4 +7,6 @@ The repository is divided into 5 branches, each with a different project coverin
 
 2) The second one, Anthill Game, is a 4 person project aimed to improve our cooperation and coordination between programmers, and to learn how to organise and thoroughly test each module within the proyect.
 
-3) 
+3) The third branch contains a miniature data base developed in C, composed of an index and the data file and all the required functions to manage such database, serving as an introduction to the underlying software in real data bases. During such course we also learnt SQL quite extensively.
+
+4) 
