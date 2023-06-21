@@ -14,8 +14,7 @@ The repository is divided into 5 branches, each with a different project coverin
 5)  The final branch contains a miniature data base developed in C, composed of an index file, a data file, and all the required functions to manage such database, serving as an introduction to the underlying software in real data bases. During such course we also learnt SQL quite extensively.
 
 
-Due to university policy, all of the projects were developed mainly in C or in Python, however, we have also adquired an
-solid understanding in C++ and in other languages like SQL or Matlab.
+Although most of the projects were developed mainly in C or in Python due to university requirements, we have also adquired a solid understanding in C++ and in other languages like SQL or Matlab.
 
 
 David Brenchley Uriol
