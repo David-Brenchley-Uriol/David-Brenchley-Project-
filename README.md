@@ -3,7 +3,7 @@ David Brenchley’s main projects:
 
 The repository is divided into 5 branches, each with a different project covering a range of programming fields.
 
-1) The first branch contains a Synchronized Block-Change Simulation, consisting of different mining processes that compete between themselves to obtain coins by calculating a Proof of Work function. Such coding granted me a solid understanding of concurrency and synchronization between processes, using both linux semaphores, signals and queues, apart from threads to improve mining perfomance in each process. 
+1) The first branch contains a Synchronized Block-Change Simulation, consisting of different mining processes that compete between themselves to obtain coins by calculating a Proof of Work function. Such coding provides a solid understanding of concurrency and synchronization between processes, using both linux semaphores, signals and queues, apart from threads to improve mining perfomance in each process. 
 
 2) The second project, Algorithm Analysis, focuses on different sorting and searching algorithms, and calculates the average operation and time cost of each method, from linear and binary search algorithms to Insert Sort, Quick Sort or Heap Sort algorithms.
 
